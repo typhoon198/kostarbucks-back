@@ -1,0 +1,4 @@
+#classes.prop
+productDAO=com.day.dao.ProductDAOOracle
+customerDAO=com.day.dao.CustomerDAOOracle
+orderDAO=com.day.dao.OrderDAOOracle
